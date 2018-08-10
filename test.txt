@@ -1,4 +1,11 @@
 branch作成課題用テストファイル
 
+<<<<<<< Updated upstream
 test
 test
+=======
+test branchを作成
+
+
+aaaaaaaa
+>>>>>>> Stashed changes
